@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "peerDependencies": {
-    "react": "18.2.0",
-    "react-native": "0.71.7"
-  },
   "keywords": [
     "ref"
   ],
